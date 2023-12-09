@@ -1,5 +1,4 @@
-# Telefon Rehberi Uygulaması README
-
+# Telefon Rehberi Uygulaması
 Bu belge, Java dilinde geliştirilen bir console telefon rehberi uygulamasının kullanımını ve temel özelliklerini anlatmaktadır.
 
 ## Uygulama Tanımı
