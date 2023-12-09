@@ -1,0 +1,15 @@
+C:\Users\user\.net-classroom-homeworks\phonebook-homework-1\phonebook-homework-1\bin\Debug\net7.0\phonebook-homework-1.exe
+C:\Users\user\.net-classroom-homeworks\phonebook-homework-1\phonebook-homework-1\bin\Debug\net7.0\phonebook-homework-1.deps.json
+C:\Users\user\.net-classroom-homeworks\phonebook-homework-1\phonebook-homework-1\bin\Debug\net7.0\phonebook-homework-1.runtimeconfig.json
+C:\Users\user\.net-classroom-homeworks\phonebook-homework-1\phonebook-homework-1\bin\Debug\net7.0\phonebook-homework-1.dll
+C:\Users\user\.net-classroom-homeworks\phonebook-homework-1\phonebook-homework-1\bin\Debug\net7.0\phonebook-homework-1.pdb
+C:\Users\user\.net-classroom-homeworks\phonebook-homework-1\phonebook-homework-1\obj\Debug\net7.0\phonebook-homework-1.csproj.AssemblyReference.cache
+C:\Users\user\.net-classroom-homeworks\phonebook-homework-1\phonebook-homework-1\obj\Debug\net7.0\phonebook-homework-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\.net-classroom-homeworks\phonebook-homework-1\phonebook-homework-1\obj\Debug\net7.0\phonebook-homework-1.AssemblyInfoInputs.cache
+C:\Users\user\.net-classroom-homeworks\phonebook-homework-1\phonebook-homework-1\obj\Debug\net7.0\phonebook-homework-1.AssemblyInfo.cs
+C:\Users\user\.net-classroom-homeworks\phonebook-homework-1\phonebook-homework-1\obj\Debug\net7.0\phonebook-homework-1.csproj.CoreCompileInputs.cache
+C:\Users\user\.net-classroom-homeworks\phonebook-homework-1\phonebook-homework-1\obj\Debug\net7.0\phonebook-homework-1.dll
+C:\Users\user\.net-classroom-homeworks\phonebook-homework-1\phonebook-homework-1\obj\Debug\net7.0\refint\phonebook-homework-1.dll
+C:\Users\user\.net-classroom-homeworks\phonebook-homework-1\phonebook-homework-1\obj\Debug\net7.0\phonebook-homework-1.pdb
+C:\Users\user\.net-classroom-homeworks\phonebook-homework-1\phonebook-homework-1\obj\Debug\net7.0\phonebook-homework-1.genruntimeconfig.cache
+C:\Users\user\.net-classroom-homeworks\phonebook-homework-1\phonebook-homework-1\obj\Debug\net7.0\ref\phonebook-homework-1.dll
